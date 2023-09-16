@@ -1,0 +1,5 @@
+*.log
+/ignore/
+static/ignore/
+file5.txt
+
